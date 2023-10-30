@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(68, 180, 183);
+    color: black;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("pictures/prac.1.jpeg");
+    background-size: 100%;
+}
+
+body:hover {
+    background-color: rgb(91, 208, 89);
+    color: rgba(41, 129, 120, 0.662);
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("pictures/prac.1.jpeg");
+    background-size: 100%;
+}
